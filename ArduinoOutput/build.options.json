@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "..,..",
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "builtInToolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages",
+  "compiler.optimization_flags": "-g -Os",
+  "customBuildProperties": "build.path=c:\\D\\MiniMRI\\ArduinoOutput,build.warn_data_percentage=75,runtime.tools.FishDude.path=C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages\\fishino\\tools\\FishDude\\1.2.1,runtime.tools.FishDude-1.2.1.path=C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages\\fishino\\tools\\FishDude\\1.2.1,runtime.tools.avrdude.path=C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino9,runtime.tools.avrdude-6.3.0-arduino9.path=C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino9,runtime.tools.avr-gcc.path=C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages\\fishino\\tools\\avr-gcc\\4.9.2-atmel3.5.4-fishino2,runtime.tools.avr-gcc-4.9.2-atmel3.5.4-fishino2.path=C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages\\fishino\\tools\\avr-gcc\\4.9.2-atmel3.5.4-fishino2",
+  "fqbn": "fishino:avr:FISHINO_GUPPY",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Davide\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10819",
+  "sketchLocation": "c:\\D\\MiniMRI\\BScanner\\Bscanner_arduino\\Bscanner_arduino.ino"
+}

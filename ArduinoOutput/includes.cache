@@ -1,0 +1,47 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages\\fishino\\hardware\\avr\\7.5.1\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages\\fishino\\hardware\\avr\\7.5.1\\variants\\fishino_guppy"
+  },
+  {
+    "Sourcefile": "c:\\D\\MiniMRI\\ArduinoOutput\\sketch\\Bscanner_arduino.ino.cpp",
+    "Include": "ADS1115_WE.h",
+    "Includepath": "C:\\Users\\Davide\\Documents\\Arduino\\libraries\\ADS1115_WE\\src"
+  },
+  {
+    "Sourcefile": "c:\\D\\MiniMRI\\ArduinoOutput\\sketch\\Bscanner_arduino.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages\\fishino\\hardware\\avr\\7.5.1\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "c:\\D\\MiniMRI\\ArduinoOutput\\sketch\\Bscanner_arduino.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\D\\MiniMRI\\ArduinoOutput\\sketch\\Motor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Davide\\Documents\\Arduino\\libraries\\ADS1115_WE\\src\\ADS1115_WE.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages\\fishino\\hardware\\avr\\7.5.1\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Davide\\AppData\\Local\\Arduino15\\packages\\fishino\\hardware\\avr\\7.5.1\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  }
+]

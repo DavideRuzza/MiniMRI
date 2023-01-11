@@ -1,0 +1,7 @@
+{
+    "board": "fishino:avr:FISHINO_GUPPY",
+    "port": "COM6",
+    "sketch": "Bscanner_arduino\\Bscanner_arduino.ino",
+    "programmer": "fishino:avrisp",
+    "output": "../ArduinoOutput"
+}
